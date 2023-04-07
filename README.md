@@ -1,6 +1,6 @@
 # DeadorAlive-Twitch
 <p align="center">
-Card game with Twitch integration
+Card game with Twitch integration & Streamelements
 </p>
 
 ![doa1](https://user-images.githubusercontent.com/82179486/230606441-a47d43f7-2e63-415e-87e0-518de7b5c99e.png)
