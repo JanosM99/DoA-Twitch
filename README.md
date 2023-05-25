@@ -1,4 +1,4 @@
-# DeadorAlive-Twitch
+# DoA-Twitch Game
 <p align="center">
 Card game with Twitch integration & StreamElements
 </p>
